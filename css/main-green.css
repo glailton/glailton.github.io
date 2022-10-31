@@ -70,6 +70,7 @@ body {
   background-attachment: fixed;
   background-position: center center;
   background-repeat: no-repeat;
+  background-color: #212121;
 }
 
 body.ajax-page-visible {
@@ -640,7 +641,7 @@ body > footer .copyrights {
 }
 
 .site-title {
-  color: #49515d;
+  color: #fff;
   font-size: 20px;
   font-weight: 500;
   font-family: 'Montserrat', Helvetica, sans-serif;
@@ -649,7 +650,7 @@ body > footer .copyrights {
 }
 
 .site-title span {
-  color: #1d19d8;
+  color: #1e944f;
 }
 
 .header.sticked .site-title {
@@ -694,7 +695,7 @@ body > footer .copyrights {
   padding: 8px 0;
   margin: 0 20px;
   text-align: center;
-  color: #49515d;
+  color: #fff;
   font-size: 15px;
   line-height: 1;
   font-weight: 400;
